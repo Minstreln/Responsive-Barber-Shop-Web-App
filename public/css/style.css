@@ -645,6 +645,56 @@ nav ul li a:hover {
 /* our Workers */
 
 
+/* Gallery */
+.gallery-container {
+    background-color: rgba(51, 5, 17, 0.938);
+}
+.gallery-img {
+    display: flex;
+    padding-left: 350px;
+}
+
+.gallery-header {
+    padding-left: 40%;
+    padding-top: 7%;
+    padding-bottom: 40px;
+}
+
+.gallery-header h1 {
+    color: white;
+    font-size: 40px;
+    font-weight: 600;
+    padding-bottom: 10px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+.gallery-header p {
+    letter-spacing: 1px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-left: -5%;
+    line-height: 1.5em;
+    color: white;
+}
+
+.gallery-header p span {
+    margin-left: 5%;
+    color: white;
+}
+
+.gallery-main {
+   margin-top: 13px;
+   margin-right: 5px;
+   border: 3px solid #997b36;
+   padding: 10px;
+}
+
+.gallery-groups img {
+    padding: 10px;
+    margin: 13px;
+    border: 3px solid #997b36;
+}
+
+/* Gallery */
 
 
 
