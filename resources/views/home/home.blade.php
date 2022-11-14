@@ -387,6 +387,14 @@
 
      {{-- Gallery ends --}}
 
+     {{-- Footer starts --}}
+
+     <div class="main-footer">
+        <h1>Barbing Salon</h1>
+     </div>
+
+     {{-- Footer ends --}}
+
 
 
 
