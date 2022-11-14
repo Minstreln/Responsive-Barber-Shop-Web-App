@@ -348,6 +348,54 @@
      {{-- Our Workers ends --}}
 
 
+     {{-- Gallery --}}
+
+     <div class="gallery-container">
+
+        <div class="gallery-header">
+            <h1>OUR GALLERY</h1>
+
+            <P>Don't believe our words, because words may decieve <br>
+            <span>So, see this gallery and trust the visuals.</span></P>
+        </div>
+        
+        <div class="gallery-img">
+
+            <div class="gallery-main">
+                <img style="height: 500px; width: 260px;" src="{{asset('images/emma2.jpeg')}}" alt="">
+            </div>
+
+            <div class="groups">
+
+                <div class="gallery-groups">
+                    <img style="height: 240px; width: 260px;" src="{{asset('images/emma3.jpg')}}" alt="">
+    
+                    <img style="height: 240px; width: 260px;" src="{{asset('images/emma4.jpg')}}" alt="">
+                </div>
+    
+                <div class="gallery-groups">
+                    <img style="height: 240px; width: 260px;" src="{{asset('images/emma5.jpg')}}" alt="">
+    
+                    <img style="height: 240px; width: 260px;" src="{{asset('images/emma1.jpg')}}" alt="">
+                </div>
+
+            </div>
+            
+
+        </div>
+     </div>
+
+     {{-- Gallery ends --}}
+
+     {{-- Footer starts --}}
+
+     <div class="main-footer">
+        <h1>Barbing Salon</h1>
+     </div>
+
+     {{-- Footer ends --}}
+
+
 
 
 
